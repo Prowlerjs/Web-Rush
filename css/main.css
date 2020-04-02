@@ -35,12 +35,12 @@ a{
     color: #fff;
     background: linear-gradient(90deg,#49007c, #e70088);
 }
+/* Edit */
 
 .container {
     margin: 0 auto;
     max-width: 1350px;
     width: 100%;
-
 }
 
 header{
